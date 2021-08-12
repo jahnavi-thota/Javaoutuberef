@@ -1,0 +1,27 @@
+// 1st question
+	/*	for (int i = 1; i <=6; i++) {
+			for (int j = 1; j <=i; j++) {
+				System.out.print(j+" ");
+			}
+			System.out.println();
+			
+		}*/
+		//2nd question
+		/*for (int i = 65; i <=67; i++) {
+			for (char j = 65; j <=i; j++) {
+				char k=j;
+				System.out.print(j+" ");
+			}
+			System.out.println();
+			
+		}*/
+		//3rd question
+		System.out.println("$ $ $ $");
+		   for(int i=1;i<=2;i++)
+			{for (int j = 1; j <=2; j++) {
+				System.out.print("$");
+				System.out.print("     ");
+			}
+			System.out.println();
+			}
+		System.out.println("$ $ $ $");
